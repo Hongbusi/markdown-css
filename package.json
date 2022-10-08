@@ -18,8 +18,6 @@
   ],
   "main": "markdown.css",
   "files": [
-    "markdown.css",
-    "markdown-dark.css",
-    "markdown-light.css"
+    "markdown.css"
   ]
 }
