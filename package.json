@@ -1,6 +1,7 @@
 {
   "name": "@hongbusi/markdown-css",
   "version": "0.0.1",
+  "description": "Customize markdown style.",
   "author": "Hongbusi",
   "license": "MIT",
   "homepage": "https://github.com/Hongbusi/markdown-css#readme",

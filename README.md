@@ -1,5 +1,7 @@
 # markdown-css
 
+Customize markdown style.
+
 ## Install
 
 ``` bash
