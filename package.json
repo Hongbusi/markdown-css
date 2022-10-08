@@ -1,0 +1,24 @@
+{
+  "name": "@hongbusi/markdown-css",
+  "version": "0.0.1",
+  "author": "Hongbusi",
+  "license": "MIT",
+  "homepage": "https://github.com/Hongbusi/markdown-css#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hongbusi/markdown-css.git"
+  },
+  "bugs": "https://github.com/Hongbusi/markdown-css/issues",
+  "keywords": [
+    "markdown",
+    "md",
+    "css",
+    "style"
+  ],
+  "main": "markdown.css",
+  "files": [
+    "markdown.css",
+    "markdown-dark.css",
+    "markdown-light.css"
+  ]
+}
