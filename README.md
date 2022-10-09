@@ -11,7 +11,6 @@ $ npm install @hongbusi/markdown-css
 ## Usage
 
 ``` ts
-// main.ts
 import '@hongbusi/markdown.css'
 ```
 
